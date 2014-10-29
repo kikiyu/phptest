@@ -1,0 +1,8 @@
+---
+applications:
+- name: phptest
+  memory: 256M
+  instances: 1
+  host: kikiyu-php-test
+  domain: mybluemix.net
+  path: .
